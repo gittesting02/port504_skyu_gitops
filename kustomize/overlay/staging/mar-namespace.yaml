@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mar
+  labels:
+    environment-id: env_99fc3dba-3d91-4a9a-a5d8-d8c6c5ba4dca
+    project-id: project_cb7b4676-bac0-4166-86aa-1f39f1801733
+    project-name: Port504
+    environment-name: staging
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
